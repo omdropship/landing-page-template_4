@@ -30,12 +30,9 @@ const Banner = () => {
         <Box sx={styles.contentWrapper}>
           <Box sx={styles.bannerContent}>
             <Heading as="h1">
-              Sistema de suporte final para agências líderes
-            </Heading>
+            Kini anda dapat memiliki sepatu premium model terbaru dengan yang murah  </Heading>
             <Text as="p">
-              Obtenha seus testes entregues em casa coletar amostra do
-              vitória das gestões que fornecem melhor sistema de design
-              diretrizes de sempre.
+              Brand terpercaya yang menjual sepatu berkualitas dan nyaman digunakan dengan harga terjangkau. Semua model sepatu selalu kami seleksi sebelum di kirimkan ke pembeli, untuk menjaga kualitas dari produk2 kami.
             </Text>
             <SubscriptionForm sx={styles.subscriptionForm} />
             <Flex sx={styles.sponsoredBy}>
